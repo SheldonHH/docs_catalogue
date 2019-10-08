@@ -12,9 +12,4 @@
   * [BOSCore Whitepaper](https://boscore.gitbook.io/resources/boscore-white-paper)
   * [BOS Communit](https://boscore.gitbook.io/resources/bos-community)
   * [BOS Bug Bounty](https://boscore.gitbook.io/resources/bug-bounty)
-  * * *  *  * \*\*\*\*
-* \*\*\*\*
-  * \*\*\*\*
-    * \*\*\*\*
-      * 
 
