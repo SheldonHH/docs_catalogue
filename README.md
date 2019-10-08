@@ -10,6 +10,6 @@
   * [BOS Oracle](https://boscore.gitbook.io/ecosystem/bos-oracle-shi-yong-wen-dang-1)
 * * \*\*\*\*[**BOSCore Resources Docs**](https://boscore.gitbook.io/resources/)\*\*\*\*
   * [BOSCore Whitepaper](https://boscore.gitbook.io/resources/boscore-white-paper)
-  * [BOS Communit](https://boscore.gitbook.io/resources/bos-community)
+  * [BOS Community](https://boscore.gitbook.io/resources/bos-community)
   * [BOS Bug Bounty](https://boscore.gitbook.io/resources/bug-bounty)
 
