@@ -1,8 +1,8 @@
 # BOSCore Documentation Catalogue
 
-* \*\*\*\*[**BOSCore Essentials Doc**](https://boscore.gitbook.io/essentials/)
+* \*\*\*\*[**BOSCore Essentials Docs**](https://boscore.gitbook.io/essentials/)
   * [IBC \(Inter-blockchain Communication\)](https://boscore.gitbook.io/essentials/ibc/)
-  * [3s LIB \(Batched Byzantine Fault Tolerence\)](https://boscore.gitbook.io/essentials/3s-lib)\*\*\*\*
+  * [3s LIB \(Batched Pipeline Byzantine Fault Tolerence Algorithm\)](https://boscore.gitbook.io/essentials/3s-lib)\*\*\*\*
   * \*\*\*\*
 * \*\*\*\*[**BOSCore Ecosystem Docs**](https://boscore.gitbook.io/ecosystem/)\*\*\*\*
 * * [BOSWPS](https://boscore.gitbook.io/ecosystem/bos-improvement-proposal/) [\(BOS Improvement Proposal\)](https://boscore.gitbook.io/ecosystem/bos-improvement-proposal/)
