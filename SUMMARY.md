@@ -34,9 +34,9 @@
     * [BET Contract design Guideline](ecosystem/bos-ecosystem/bos-executive-team/bet-contract-design-guideline-1.md)
     * [DPOS Borda Count Theory](ecosystem/bos-ecosystem/bos-executive-team/dpos-borda-count-theory.md)
     * [BET Contract design Guideline](ecosystem/bos-ecosystem/bos-executive-team/bet-contract-design-guideline.md)
-  * [BOS Oracle](ecosystem/bos-ecosystem/bos-oracle.md)
-  * [BOS Oracle Deployment](ecosystem/bos-ecosystem/bos-oracle-deployment.md)
-  * [BOS.Oracle: Witness and Changes](ecosystem/bos-ecosystem/bos.oracle-witness-and-changes.md)
+  * [BOS Oracle](ecosystem/bos-ecosystem/bos-oracle/README.md)
+    * [BOS.Oracle: Witness and Changes](ecosystem/bos-ecosystem/bos-oracle/bos.oracle-witness-and-changes.md)
+    * [BOS Oracle Deployment](ecosystem/bos-ecosystem/bos-oracle/bos-oracle-deployment.md)
 
 ## RESOURCES
 
