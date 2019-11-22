@@ -21,7 +21,7 @@
 ## Ecosystem
 
 * [BOS Ecosystem](ecosystem/bos-ecosystem/README.md)
-  * [BOSWPS \(BOSCore Improvement Proposal\)](ecosystem/bos-ecosystem/boscore-improvement-proposal/README.md)
+  * [BOSWPS \(BOS Improvement Proposal\)](ecosystem/bos-ecosystem/boscore-improvement-proposal/README.md)
     * [1. BOSCore Proposal Example](ecosystem/bos-ecosystem/boscore-improvement-proposal/1.-boscore-proposal-example.md)
     * [2. Contract Deployment Procedure](ecosystem/bos-ecosystem/boscore-improvement-proposal/2.-contract-deployment-procedure.md)
     * [3. Referendum Execution Procedure](ecosystem/bos-ecosystem/boscore-improvement-proposal/3.-referendum-execution-procedure.md)
