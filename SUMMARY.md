@@ -36,3 +36,9 @@
   * [ibc.token](ibc-inter-blockchain-communication/ibc.token.md)
   * [ibc.chain](ibc-inter-blockchain-communication/ibc.chain.md)
 
+## RESOURCES
+
+* [BOS Whitepapers](resources/bos-whitepapers.md)
+* [BOS Community](resources/bos-community.md)
+* [BOS Bug Bounty](resources/bos-bug-bounty.md)
+
