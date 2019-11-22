@@ -1,4 +1,4 @@
-# BOSCore Documentation Catalogue
+# BOSCore Documentation
 
 * \*\*\*\*[**BOSCore Essentials**](https://boscore.gitbook.io/essentials/)
 

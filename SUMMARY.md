@@ -1,4 +1,4 @@
 # Table of contents
 
-* [BOSCore Documentation Catalogue](README.md)
+* [BOSCore Documentation](README.md)
 
