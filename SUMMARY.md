@@ -5,10 +5,6 @@
 ## ESSENTIALS
 
 * [BOS Essentials](essentials/bos-essentials/README.md)
-  * [3s LIB \(Batched Byzantine Tolerance Algorithm\)](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/README.md)
-    * [PART I BOS LIB Acceleration Solution: Batch PBFT](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/part-i-bos-lib-acceleration-solution-batch-pbft.md)
-    * [PART II BOS Batch-PBFT Upgrade Solution](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/part-ii-bos-batch-pbft-upgrade-solution.md)
-    * [Algorithm for improving EOSIO consensus speed based on Batch-PBFT](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/algorithm-for-improving-eosio-consensus-speed-based-on-batch-pbft.md)
   * [IBC \(Inter-blockchain Communication\)](essentials/bos-essentials/ibc-inter-blockchain-communication/README.md)
     * [User Guide](essentials/bos-essentials/ibc-inter-blockchain-communication/user-guide.md)
     * [Token Registration and Management](essentials/bos-essentials/ibc-inter-blockchain-communication/token-registration-and-management.md)
@@ -17,6 +13,10 @@
     * [Upgrade IBC with EOSIO v1.8](essentials/bos-essentials/ibc-inter-blockchain-communication/upgrade-ibc-with-eosio-v1.8.md)
     * [ibc.token](essentials/bos-essentials/ibc-inter-blockchain-communication/ibc.token.md)
     * [ibc.chain](essentials/bos-essentials/ibc-inter-blockchain-communication/ibc.chain.md)
+  * [3s LIB \(Batched Byzantine Tolerance Algorithm\)](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/README.md)
+    * [PART I BOS LIB Acceleration Solution: Batch PBFT](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/part-i-bos-lib-acceleration-solution-batch-pbft.md)
+    * [PART II BOS Batch-PBFT Upgrade Solution](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/part-ii-bos-batch-pbft-upgrade-solution.md)
+    * [Algorithm for improving EOSIO consensus speed based on Batch-PBFT](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/algorithm-for-improving-eosio-consensus-speed-based-on-batch-pbft.md)
 
 ## Ecosystem
 
