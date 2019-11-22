@@ -1,0 +1,2 @@
+# BOSCore Improvement Proposal
+
