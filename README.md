@@ -3,7 +3,7 @@
 * \*\*\*\*[**BOSCore Essentials**](https://boscore.gitbook.io/essentials/)
 
   * [IBC \(Inter-blockchain Communication\)](https://boscore.gitbook.io/essentials/ibc/)
-  * [3s LIB \(Batched Pipeline Byzantine Fault Tolerance](https://boscore.gitbook.io/essentials/3s-lib)[ Algorithm\)](https://boscore.gitbook.io/essentials/3s-lib)\*\*\*\*
+  * [3s LIB \(Batched Pipeline Byzantine Fault Tolerance](https://boscore.gitbook.io/docs/essentials/3s-libs-batched-byzantine-tolerance-algorithm)[ Algorithm\)](https://boscore.gitbook.io/essentials/3s-lib)\*\*\*\*
 
   \*\*\*\*
 
