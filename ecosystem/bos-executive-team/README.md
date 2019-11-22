@@ -1,2 +1,2 @@
-# BOS Executive Team
+# BET \(BOS Executive Team\)
 

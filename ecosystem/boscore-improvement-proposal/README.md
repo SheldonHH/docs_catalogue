@@ -1,2 +1,2 @@
-# BOSCore Improvement Proposal
+# BOSWPS \(BOSCore Improvement Proposal\)
 
