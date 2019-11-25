@@ -1,5 +1,7 @@
 # BOSCore Documentation
 
+
+
 * \*\*\*\*[**BOSCore Essentials**](https://boscore.gitbook.io/docs/essentials/bos-essentials)
 
   * [IBC \(Inter-blockchain Communication\)](https://boscore.gitbook.io/docs/essentials/bos-essentials/ibc-inter-blockchain-communication)
