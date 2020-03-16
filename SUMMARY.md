@@ -2,9 +2,9 @@
 
 * [BOSCore Documentation](README.md)
 
-## ESSENTIALS
+## BOSCore <a id="essentials"></a>
 
-* [BOS Essentials](essentials/bos-essentials/README.md)
+* [Essentials](essentials/bos-essentials/README.md)
   * [IBC \(Inter-blockchain Communication\)](essentials/bos-essentials/ibc-inter-blockchain-communication/README.md)
     * [User Guide](essentials/bos-essentials/ibc-inter-blockchain-communication/user-guide.md)
     * [Token Registration and Management](essentials/bos-essentials/ibc-inter-blockchain-communication/token-registration-and-management.md)
@@ -17,31 +17,25 @@
     * [PART I BOS LIB Acceleration Solution: Batch PBFT](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/part-i-bos-lib-acceleration-solution-batch-pbft.md)
     * [PART II BOS Batch-PBFT Upgrade Solution](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/part-ii-bos-batch-pbft-upgrade-solution.md)
     * [Algorithm for improving EOSIO consensus speed based on Batch-PBFT](essentials/bos-essentials/3s-libs-batched-byzantine-tolerance-algorithm/algorithm-for-improving-eosio-consensus-speed-based-on-batch-pbft.md)
-
-## Ecosystem
-
-* [BOS Ecosystem](bos-ecosystem/README.md)
-  * [BOSWPS \(BOS Improvement Proposal\)](bos-ecosystem/boscore-improvement-proposal/README.md)
-    * [1. BOS Improvement Proposal Example](bos-ecosystem/boscore-improvement-proposal/1.-bos-improvement-proposal-example.md)
-    * [2. Contract Deployment Procedure](bos-ecosystem/boscore-improvement-proposal/2.-contract-deployment-procedure.md)
-    * [3. Referendum Execution Procedure](bos-ecosystem/boscore-improvement-proposal/3.-referendum-execution-procedure.md)
-    * [4. BOS Development Incentive program](bos-ecosystem/boscore-improvement-proposal/4.-bos-development-incentive-program-1.md)
-    * [5. BOS Referendum - Vote Tally](bos-ecosystem/boscore-improvement-proposal/5.-bos-referendum-vote-tally.md)
-    * [6. auditor.bos -  a contract that elect the auditors for boswps.io](bos-ecosystem/boscore-improvement-proposal/6.-auditor.bos-bos-auditor-elections-contract.md)
-    * [7. eosio.forum - simple forum, messaging and voting system for BOS](bos-ecosystem/boscore-improvement-proposal/7.-eosio.forum-a-simple-forum-messaging-and-voting-system-for-bos.md)
-    * [8. escrow.bos - a contract that holds funds in escrow](bos-ecosystem/boscore-improvement-proposal/8.escrow-bos.md)
-  * [BET \(BOS Executive Team\)](bos-ecosystem/bos-executive-team/README.md)
-    * [BET Contract design Guideline](bos-ecosystem/bos-executive-team/bet-contract-design-guideline.md)
-    * [bet.bos - BOS Bet Elections Contract](bos-ecosystem/bos-executive-team/bet-contract-design-guideline-1.md)
-    * [DPOS Borda Count Theory](bos-ecosystem/bos-executive-team/dpos-borda-count-theory.md)
-  * [BOS Oracle](bos-ecosystem/bos-oracle/README.md)
-    * [BOS.Oracle: Witness and Changes](bos-ecosystem/bos-oracle/bos.oracle-witness-and-changes.md)
-    * [BOS Oracle Deployment](bos-ecosystem/bos-oracle/bos-oracle-deployment.md)
-
-## RESOURCES
-
-* [BOS Resources](bos-resources/README.md)
-  * [BOS Whitepapers](bos-resources/bos-whitepapers.md)
-  * [BOS Community](bos-resources/bos-community.md)
-  * [BOS Bug Bounty](bos-resources/bos-bug-bounty.md)
+* [Ecosystem](essentials/bos-ecosystem/README.md)
+  * [BOSWPS \(BOS Improvement Proposal\)](essentials/bos-ecosystem/boscore-improvement-proposal/README.md)
+    * [1. BOS Improvement Proposal Example](essentials/bos-ecosystem/boscore-improvement-proposal/1.-bos-improvement-proposal-example.md)
+    * [2. Contract Deployment Procedure](essentials/bos-ecosystem/boscore-improvement-proposal/2.-contract-deployment-procedure.md)
+    * [3. Referendum Execution Procedure](essentials/bos-ecosystem/boscore-improvement-proposal/3.-referendum-execution-procedure.md)
+    * [4. BOS Development Incentive program](essentials/bos-ecosystem/boscore-improvement-proposal/4.-bos-development-incentive-program-1.md)
+    * [5. BOS Referendum - Vote Tally](essentials/bos-ecosystem/boscore-improvement-proposal/5.-bos-referendum-vote-tally.md)
+    * [6. auditor.bos -  a contract that elect the auditors for boswps.io](essentials/bos-ecosystem/boscore-improvement-proposal/6.-auditor.bos-bos-auditor-elections-contract.md)
+    * [7. eosio.forum - simple forum, messaging and voting system for BOS](essentials/bos-ecosystem/boscore-improvement-proposal/7.-eosio.forum-a-simple-forum-messaging-and-voting-system-for-bos.md)
+    * [8. escrow.bos - a contract that holds funds in escrow](essentials/bos-ecosystem/boscore-improvement-proposal/8.escrow-bos.md)
+  * [BET \(BOS Executive Team\)](essentials/bos-ecosystem/bos-executive-team/README.md)
+    * [BET Contract design Guideline](essentials/bos-ecosystem/bos-executive-team/bet-contract-design-guideline.md)
+    * [bet.bos - BOS Bet Elections Contract](essentials/bos-ecosystem/bos-executive-team/bet-contract-design-guideline-1.md)
+    * [DPOS Borda Count Theory](essentials/bos-ecosystem/bos-executive-team/dpos-borda-count-theory.md)
+  * [BOS Oracle](essentials/bos-ecosystem/bos-oracle/README.md)
+    * [BOS.Oracle: Witness and Changes](essentials/bos-ecosystem/bos-oracle/bos.oracle-witness-and-changes.md)
+    * [BOS Oracle Deployment](essentials/bos-ecosystem/bos-oracle/bos-oracle-deployment.md)
+* [Resources](essentials/bos-resources/README.md)
+  * [BOS Whitepapers](essentials/bos-resources/bos-whitepapers.md)
+  * [BOS Community](essentials/bos-resources/bos-community.md)
+  * [BOS Bug Bounty](essentials/bos-resources/bos-bug-bounty.md)
 

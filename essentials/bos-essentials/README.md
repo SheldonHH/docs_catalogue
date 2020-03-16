@@ -1,2 +1,2 @@
-# BOS Essentials
+# Essentials
 
